@@ -2,6 +2,8 @@
 <img width="931" alt="image" src="https://github.com/Harshithachandaluri/Kickstarter-Dashboard/assets/85833792/d2b2d697-3523-44e4-b714-3ba62361cadf">
 
 
+Project Link:https://docs.google.com/spreadsheets/d/15vpDQEMlXsVws8kWq7drIdc0fYjPd-Yd/edit?usp=sharing&ouid=111583262931445170083&rtpof=true&sd=true
+
 Crowdfunding is the practice of funding a project or a venture by raising monetary contributions from many people across the globe. Kickstarter is an American public-benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity and merchandising.
 
 Kickstarter  hosts the crowdfunding projects on their platforms. Kickstarter has hosted more than 250,000 projects on their website with more than $4 Billion collective amount raised. Mission of the company is help bring creative projects to life.

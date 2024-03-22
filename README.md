@@ -1,4 +1,6 @@
 # Kickstarter-Dashboard
+<img width="931" alt="image" src="https://github.com/Harshithachandaluri/Kickstarter-Dashboard/assets/85833792/d2b2d697-3523-44e4-b714-3ba62361cadf">
+
 
 Crowdfunding is the practice of funding a project or a venture by raising monetary contributions from many people across the globe. Kickstarter is an American public-benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity and merchandising.
 
